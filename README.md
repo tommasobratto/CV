@@ -3,9 +3,9 @@
 A young, pro-active junior web developer who wishes to learn more about his craft and loves being involved and collaborating on projects. I've finished the course at Makers Academy with no previous coding experience, having moved from Italy for that purpose.
 I now wish to get deeper and deeper into everything concerning coding, web/game development and nerdy tech stuff, working with like-minded people on real projects and seeing them come to life.
 
-## Projects
+## Some projects I worked on
 
-- [Street Pacman](https://github.com/PacManProject/pacman-clientside), a GPS-driven mobile multiplayer game re-enacting the classic arcade game Pacman in the streets of your city. Made for Makers Academy's last 2 weeks final project.
+- [Street Pacman](https://github.com/tommasobratto/pacman-clientside), a GPS-driven mobile multiplayer game re-enacting the classic arcade game Pacman in the streets of your city. Made for Makers Academy's last 2 weeks final project.
 - [Rock, Paper, Scissors](https://github.com/tommasobratto/rock_paper_scissors-challenge), one of Makers Academy's challenges testing your skills in software development/design and problem solving.
 - [Getting started with Three.js](https://github.com/tommasobratto/Getting-started-with-Three.js), a project where I followed some simple tutorials about Javascript 3D graphics, adding comments and notes along the way.
 - [BlogBook](https://github.com/GruntingUnicorns/blogbook), Makers Academy Makerthon's project, a Makers' WordPress blog aggregator.
