@@ -43,18 +43,18 @@ I'm a native Italian speaker and I've had a lot of experience during high school
 - Rspec, Cucumber, Capybara
 - Jasmine, Mocha, Chai
 
-### Università degli Studi di Firenze (September 2015 - November 2015)
+### University of Florence (September 2015 - November 2015)
 
 - 3-years graduation course in Economic Development (Economy, Anthropology, Law)
 - Dropped out to start the course at Makers Academy (no grades obtained)
 
-### Liceo Scientifico Galileo Galilei, Siena (2011 - 2015)
+### Scientific High School Galileo Galilei, Siena (2011 - 2015)
 
 - Basic courses in Maths and Physics
 - Obtained a Cambridge ESOL First Certificate in English (Grade 85/100)
 - Learned to play electric guitar and basic theory of music in a 4-years course at "Rock Factory" music school
 
-### Liceo Linguistico San Giovanni Bosco, Colle Val d'Elsa (2010 - 2011)
+### Linguistic High School San Giovanni Bosco, Colle Val d'Elsa (2010 - 2011)
 
 - Basic courses in English with native English teacher
 - Basic courses in French and German languages
