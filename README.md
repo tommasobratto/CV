@@ -50,9 +50,7 @@ I'm a native Italian speaker and I've had a lot of experience during high school
 
 - Basic courses in Maths and Physics
 - Obtained a Cambridge ESOL First Certificate in English (Grade 85/100)
-- Learned to play electric guitar and basic theory of music in a 4-years course at "Rock Factory" music school
 
 ### Linguistic High School San Giovanni Bosco - Siena, Italy (2010 - 2011)
 
 - Basic courses in English with native English teacher
-- Basic courses in French and German languages
