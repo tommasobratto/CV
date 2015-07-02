@@ -46,13 +46,13 @@ I'm a native Italian speaker and I've had a lot of experience during high school
 - Basics of SQL databases, PostgreSQL
 - HTML5, CSS
 
-### Scientific High School Galileo Galilei, Siena (2011 - 2015)
+### Scientific High School Galileo Galilei - Siena, Italy (2011 - 2015)
 
 - Basic courses in Maths and Physics
 - Obtained a Cambridge ESOL First Certificate in English (Grade 85/100)
 - Learned to play electric guitar and basic theory of music in a 4-years course at "Rock Factory" music school
 
-### Linguistic High School San Giovanni Bosco, Colle Val d'Elsa (2010 - 2011)
+### Linguistic High School San Giovanni Bosco - Siena, Italy (2010 - 2011)
 
 - Basic courses in English with native English teacher
 - Basic courses in French and German languages
