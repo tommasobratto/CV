@@ -1,13 +1,12 @@
 # Tommaso Bratto
 
-A young, pro-active junior web developer who wishes to learn more about his craft and loves being involved and collaborating on projects. I've finished the course at Makers Academy with no previous coding experience, having moved from Italy for that purpose.
+A young, pro-active junior developer who wishes to learn more about his craft and loves being involved and collaborating on projects. I've finished the course at Makers Academy with no previous coding experience, having moved from Italy for that purpose.
 I now wish to get deeper and deeper into everything concerning coding, web/game development and nerdy tech stuff, working with like-minded people on real projects and seeing them come to life.
 
 ## Favourite Projects
 
 - [Street Pacman](https://github.com/tommasobratto/pacman-clientside), a GPS-driven mobile multiplayer game re-enacting the classic arcade game Pacman in the streets of your city. Made for Makers Academy's last 2 weeks final project. There is also a live version on Heroku: http://street-pacman.herokuapp.com/
 - [Rock, Paper, Scissors](https://github.com/tommasobratto/rock_paper_scissors-challenge), one of Makers Academy's challenges testing your skills in software development/design and problem solving.
-- [Getting started with Three.js](https://github.com/tommasobratto/Getting-started-with-Three.js), a project where I followed some simple tutorials about Javascript 3D graphics, adding comments and notes along the way.
 - [BlogBook](https://github.com/GruntingUnicorns/blogbook), Makers Academy Makerthon's project, a Makers' WordPress blog aggregator.
 
 ## Skills
@@ -34,19 +33,18 @@ I'm a native Italian speaker and I've had a lot of experience during high school
 - Deep interest for everything concerning code
 - Autonomous learning skills and problem solving
 - Teamwork and pair programming skills
-- OOP, Functional programming, TDD, BDD, SOLID, MVC, MVVM
 - Agile Methodologies
+- Object Oriented Programming
+- Test Driven Development, Behaviour Driven Development
+- SOLID principles
+- MVC and MVVM Design patterns
+- Version control with Git/GitHub
+- Ruby stack: Ruby, Sinatra, Rails
+- JS stack: Javascript, Node.js, Angular.js, Socket.io and Websockets, AJAX and jQuery
+- Testing tools: Rspec, Cucumber, Capybara, Jasmine, Mocha, Selenium
+- Deployment with Heroku
 - Basics of SQL databases, PostgreSQL
-- Ruby, Sinatra, Rails
-- Javascript, Node.js, Angular.js, Socket.io and Websockets, AJAX and jQuery
 - HTML5, CSS
-- Rspec, Cucumber, Capybara
-- Jasmine, Mocha, Chai
-
-### University of Florence (September 2015 - November 2015)
-
-- 3-years graduation course in Economic Development (Economy, Anthropology, Law)
-- Dropped out to start the course at Makers Academy (no grades obtained)
 
 ### Scientific High School Galileo Galilei, Siena (2011 - 2015)
 
