@@ -48,7 +48,6 @@ I'm a native Italian speaker and I've had a lot of experience during high school
 
 ### Scientific High School Galileo Galilei - Siena, Italy (2011 - 2014)
 
-- Basic courses in Maths and Physics
 - Obtained a Cambridge ESOL First Certificate in English (Grade 85/100)
 
 ### Linguistic High School San Giovanni Bosco - Siena, Italy (2010 - 2011)
