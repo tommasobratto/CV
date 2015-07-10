@@ -29,7 +29,6 @@ Self-taught, I understand the very basics of mixing and mastering music with dig
 
 - Produced and engineered the sounds of Vexovoid's self-produced EP Heralds Of The Stars, a local band from Siena, Italy.  
 The full stream can be found here: https://www.youtube.com/watch?v=VOzcgVoXehI
-
 - Experience with learning the use of Cubase and Reaper DAWs, various VST plugins and iZotope Ozone mastering suite
 
 ## Education
