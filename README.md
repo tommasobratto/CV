@@ -6,8 +6,9 @@ I wish to get deeper and deeper into everything concerning coding, web/game deve
 ## My Projects
 
 - [Street Pacman](https://github.com/tommasobratto/pacman-clientside), a GPS-driven mobile multiplayer game re-enacting the classic arcade game Pacman in the streets of your city. Made for Makers Academy's last 2 weeks final project. There is also a live version on Heroku: http://street-pacman.herokuapp.com/
-- [Rock, Paper, Scissors](https://github.com/tommasobratto/rock_paper_scissors-challenge), one of Makers Academy's challenges testing your skills in software development/design and problem solving.
 - [BlogBook](https://github.com/GruntingUnicorns/blogbook), Makers Academy Makerthon's project, a Makers' WordPress blog aggregator.
+- [ClothMaker](https://github.com/tommasobratto/clothing-retailer-test), a tech-test about building an eCommerce website.
+- [Rock, Paper, Scissors](https://github.com/tommasobratto/rock_paper_scissors-challenge), one of Makers Academy's challenges testing your skills in software development/design and problem solving.
 
 ## Skills
 
