@@ -27,8 +27,7 @@ I am a native Italian speaker and I've had a lot of experience during Makers Aca
 
 Self-taught, I understand the very basics of mixing and mastering music with digital software. I love to be able to learn something by doing and understanding the best practices and methods involved in it.
 
-- Produced and engineered the sounds of Vexovoid's self-produced EP Heralds Of The Stars, a local band from Siena, Italy.  
-The full stream can be found here: https://www.youtube.com/watch?v=VOzcgVoXehI
+- Produced and engineered the sounds of Vexovoid's self-produced EP Heralds Of The Stars, a local band from Siena, Italy. The full stream can be found here: https://www.youtube.com/watch?v=VOzcgVoXehI
 - Experience with learning the use of Cubase and Reaper DAWs, various VST plugins and iZotope Ozone mastering suite
 
 ## Education
